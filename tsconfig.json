@@ -11,5 +11,9 @@
 		"strict": true,
 		"module": "NodeNext",
 		"moduleResolution": "NodeNext"
+	},
+	"buildOptions": {
+		"preserveSymlinks": true,
+        "target": "es2022"
 	}
 }
